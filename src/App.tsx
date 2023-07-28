@@ -14,10 +14,10 @@ async function getQuotes(): Promise<string | null> {
 }
 
 const imagesArray: string[] = [
-  'src/assets/1.jpg',
-  'src/assets/2.jpg',
-  'src/assets/3.jpg',
-  'src/assets/4.jpg',
+  'public/1.jpg',
+  'public/2.jpg',
+  'public/3.jpg',
+  'public/4.jpg',
 ];
 
 function getRandomImage(): string {
