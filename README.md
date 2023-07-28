@@ -25,4 +25,4 @@ Your app is ready to be deployed!
 
 ## Deployment
 
-Learn more about deploying your application with the [documentations](https://vitejs.dev/guide/static-deploy.html)
+This is my first project with Solid.js, and I used the Chuck Norris Jokes API to add some fun content to it. The application has been deployed and can be accessed using the following link: https://chuck-norris-three.vercel.app/
